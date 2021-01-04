@@ -1,5 +1,6 @@
 # This project illustatres how a "maintenance person" will go through all seven pools in a community and with set the temperatures. The person starts from location (0,0), and will go to the nearest pool after she/he finishes the job. The process continues until all the pools are visited. Each pool can only be visited once.
 
+![pools](https://user-images.githubusercontent.com/70176171/103590739-7dac1f00-4ea3-11eb-81aa-16ef3d66f885.PNG)
 ## Our driver program finds, determines and displays the person takes to visit all the pools
 ### *Technical specifications includes*
 1. Create three classes: Pool, Temperature, and Location.
